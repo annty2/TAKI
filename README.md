@@ -6,7 +6,7 @@ Then the program recieves the players name, and randomly draws cards. Also it dr
 
 In example:
 
-![alt text](https://github.com/innay96/RecipeRadar/issues/3#issue-449897933)
+![](https://user-images.githubusercontent.com/33619352/58573803-2a91d500-8247-11e9-8d45-9fe533da0a05.png)
 
 
 דוגמא:
