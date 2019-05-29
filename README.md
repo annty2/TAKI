@@ -5,8 +5,9 @@ First we set the number of players and the number of cards for each one by the u
 Then the program recieves the players name, and randomly draws cards. Also it draws a random start card, and then the game starts.
 
 In example:
-https://github.com/innay96/RecipeRadar/issues/3#issue-449897933
-
+<br>
+<img src= https://github.com/innay96/RecipeRadar/issues/3#issue-449897933>
+<br>
 
 דוגמא:
 מהלך המשחק:
